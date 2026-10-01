@@ -99,7 +99,8 @@ No installation or backend server is required.
 
 The project is deployed online:
 
-[Open To-Do List](commitlist.vercel.app)
+[Open To-Do List](https://commitlist.vercel.app/)
+
 
 ## Project Purpose
 
